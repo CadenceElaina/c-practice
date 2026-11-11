@@ -1,0 +1,6 @@
+# Ignore compiled binaries (files without extensions or standard out files)
+a.out
+*.o
+*.out
+main
+union
